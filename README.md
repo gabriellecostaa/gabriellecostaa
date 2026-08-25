@@ -34,3 +34,11 @@ Construir uma carreira em tecnologia, com foco em desenvolvimento e, futuramente
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielle%20Costa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-costa-bb29b9427/)
+
+## 🚀 Projetos
+
+### 🧮 Calculadora Rosa Gatinho
+
+Calculadora web interativa desenvolvida com HTML, CSS e JavaScript.
+
+🔗 [Ver projeto](https://gabriellecostaa.github.io/calculadora-web/)
