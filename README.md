@@ -42,3 +42,9 @@ Construir uma carreira em tecnologia, com foco em desenvolvimento e, futuramente
 Calculadora web interativa desenvolvida com HTML, CSS e JavaScript.
 
 🔗 [Ver projeto](https://gabriellecostaa.github.io/calculadora-web/)
+
+### 🐍 Assistente de Aprovação
+
+Programa desenvolvido em Python para calcular médias e classificar a situação acadêmica dos alunos.
+
+🔗 [Ver projeto](https://github.com/gabriellecostaa/assistente-de-aprovacao)
