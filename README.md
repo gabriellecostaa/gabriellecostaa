@@ -1,50 +1,71 @@
-# Olá, eu sou Gabrielle Costa! 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvendo projetos em Python e Web Development  
-🔐 Construindo minha jornada em Cybersecurity
+<h1 align="center">Olá! Eu sou Gabrielle Costa 👋</h1>
 
-## 🚀 Sobre mim
+<h3 align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas
+</h3>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha base em programação e tecnologia por meio de projetos práticos.
+<p align="center">
+  Construindo minha jornada na programação, um projeto de cada vez.
+</p>
 
-Atualmente, estou estudando Python, desenvolvimento web e fundamentos de segurança da informação, buscando transformar o que aprendo em projetos reais para meu portfólio.
+---
 
-## 🛠️ Tecnologias e estudos
+## 👩‍💻 Sobre mim
 
-- Python
-- HTML
-- CSS
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIASSELVI e estou desenvolvendo minha base em programação por meio de estudos e projetos práticos.
+
+Tenho interesse em desenvolvimento de software, especialmente na área de Back-end, e estou construindo meus conhecimentos em lógica de programação e Python.
+
+Acredito no aprendizado contínuo, na prática e na evolução constante como desenvolvedora.
+
+- 🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
+- 🐍 Estudando Python e lógica de programação.
+- 💻 Explorando desenvolvimento de software.
+- 🎯 Direcionando meus estudos para Back-end.
+- 🤖 Tenho interesse futuro em Inteligência Artificial e Machine Learning.
+
+## 🛠️ Tecnologias e ferramentas
+
+**Conhecimentos e experiências práticas:**
+
+- HTML5
+- CSS3
 - JavaScript
-- Lógica de Programação
-- Git & GitHub
-- Fundamentos de Cybersecurity
+- Git e GitHub
 
-## 📚 Atualmente aprendendo
+**Em desenvolvimento:**
 
 - Python
-- Desenvolvimento Web
-- Git e GitHub
-- Segurança da Informação
+- Lógica de programação
+- Fundamentos de desenvolvimento Back-end
 
-## 🎯 Objetivo
+## 📚 Atualmente estudando
 
-Construir uma carreira em tecnologia, com foco em desenvolvimento e, futuramente, especialização em Cybersecurity.
-
-## 🔗 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabrielle%20Costa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielle-costa-bb29b9427/)
+- Lógica de programação — Curso em Vídeo.
+- Fundamentos de Python.
+- Estruturas e conceitos fundamentais da programação.
 
 ## 🚀 Projetos
 
 ### 🧮 Calculadora Rosa Gatinho
 
-Calculadora web interativa desenvolvida com HTML, CSS e JavaScript.
+Projeto web desenvolvido com HTML, CSS e JavaScript, explorando conceitos de interface, lógica e interatividade.
 
-🔗 [Ver projeto](https://gabriellecostaa.github.io/calculadora-web/)
+[Ver repositório](https://github.com/gabriellecostaa/calculadora-web) | [Acessar projeto](https://gabriellecostaa.github.io/calculadora-web/)
 
 ### 🐍 Assistente de Aprovação
 
-Programa desenvolvido em Python para calcular médias e classificar a situação acadêmica dos alunos.
+Projeto em Python para cálculo de médias e classificação de resultados acadêmicos.
 
-🔗 [Ver projeto](https://github.com/gabriellecostaa/assistente-de-aprovacao)
+[Ver repositório](https://github.com/gabriellecostaa/assistente-de-aprovacao)
+
+---
+
+## 🌱 Minha jornada
+
+Este perfil reúne meus estudos, experimentos e projetos desenvolvidos durante minha formação em tecnologia.
+
+Meu objetivo é construir uma base sólida em programação, desenvolver boas práticas e evoluir continuamente como profissional.
+
+**Um passo de cada vez. Sempre aprendendo.**
